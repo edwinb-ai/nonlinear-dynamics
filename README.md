@@ -6,7 +6,7 @@ In particular, the real purpose is to generate a set of Julia Notebooks that can
 famous book by Strogatz.
 
 The motivation for this is that I myself want to learn Dynamical Systems as a hobby, and this repository is the evidence of that journey
-down the rabbit hole.
+down the rabbit hole that is the amazing world of Dynamical Systems.
 
 Everything will be written in the [Julia programming language](https://julialang.org).
 
@@ -16,5 +16,5 @@ Although the purpose of this repository is to learn Dynamical Systems, numerical
 solutions. The basic numerical methods are _integration schemes_ for solving ordinary differential equations, and some libraries for plotting, of course.
 
 While this is the basic and _natural_ approach, it is important to note that the library [DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl)
-exists and it's a fantastic tool for dynamical systems in general, but I will _not_ be using it in this repository just to keep the original purpose of this repository
+exists and it's a fantastic tool for Dynamical Systems in general, but I will _not_ be using it in this repository just to keep the original purpose of this repository
 true to its value, but everyone is welcome to try and experiment with it.
